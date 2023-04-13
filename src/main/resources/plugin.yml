@@ -2,3 +2,11 @@ name: Jqst-Staff
 version: '${project.version}'
 main: com.foxdev.jqststaff.Jqst_Staff
 api-version: 1.16
+commands:
+  vanish:
+    description: Vanish
+  socialspy:
+    description: Socialspy
+  punish:
+    description: Punish
+    permission: jqst.punish
